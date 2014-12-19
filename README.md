@@ -1,3 +1,7 @@
+
+- remember to clone trendrr/java-oss-lib and mvn install it locally before building this (and probably also installing it locally)
+
+
 ## TrendrrNSQCLient
 =============
 
